@@ -18,4 +18,3 @@ aluminum peripherial evaluation case.
     <xacro:d435i_imu_modules name="${name}" use_nominal_extrinsics="${use_nominal_extrinsics}"/>
   </xacro:macro>
 </robot>
-
